@@ -16,8 +16,8 @@ import {investigate} from 'react-native-bundle-splitter/dist/utils';
 import HomeScreen from './screens/Home';
 import DetailsScreen from './screens/Details';
 
-// console.log(`module.exports = ${JSON.stringify(investigate().loaded.sort())};`);
-// console.log(investigate());
+console.log(`module.exports = ${JSON.stringify(investigate().loaded.sort())};`);
+console.log(investigate());
 
 const Stack = createStackNavigator();
 
