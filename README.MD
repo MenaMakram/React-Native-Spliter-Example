@@ -1,4 +1,4 @@
-# React Native Bundle Splitter
+# React Native Bundle Splitter Example
 
 [![npm version](https://badge.fury.io/js/react-native-bundle-splitter.svg)](http://badge.fury.io/js/react-native-bundle-splitter) ![npm](https://img.shields.io/npm/dw/react-native-bundle-splitter.svg)
 
